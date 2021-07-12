@@ -1,0 +1,9 @@
+citHeader("To cite rankUncertainty in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "rankUncertainty: Algorithms for Working with Uncertainty in Rankings",
+  author   = as.person("Justin Rising"),
+  year     = "2021",
+  textVersion = "Justin Rising. \"rankUncertainty: Algorithms for Working with Uncertainty in Rankings\", 2021."
+)
