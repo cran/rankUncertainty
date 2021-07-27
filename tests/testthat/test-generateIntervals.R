@@ -49,11 +49,7 @@ test_that('canonicalize works correctly', {
     all(toMatrix(truth) == toMatrix(test))
   }
 
-  # This sometimes comes back as NA in the test.  Even after extensive manual
-  # testing, I've never been able to reproduce it elsewhere.  I need to figure
-  # out what's going on and remove this hack.
-  res <- all(replicate(100, test()))
-  expect_true(res || is.na(res))
+  expect_true(all(replicate(100, test())))
 })
 
 test_that('canonicalize generates distinct endpoints', {

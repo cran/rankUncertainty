@@ -58,7 +58,7 @@ distinguish(Rcpp::NumericVector& left,
 
         unsigned int j = 0;
         for (unsigned int i = 0;
-             i < n;
+             i < n && j < m;
              i++)
         {
             checker.check();

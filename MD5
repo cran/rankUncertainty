@@ -1,4 +1,4 @@
-9e5f9d6f425bdf2d09ea03ce45f58ea5 *DESCRIPTION
+b3bbeb06520dc2bc47dddf4eb44aac39 *DESCRIPTION
 85320c26a2db8ed07992b214008ce468 *LICENSE
 aab1291f7de7c55e44668196df0df4c8 *NAMESPACE
 5428d17088f9ee836622dc8631746741 *R/RcppExports.R
@@ -32,7 +32,7 @@ cd5075523b31aad48d6bddb92d2c79f1 *man/lessThan.Rd
 b99caadf20513ba2de0a3e4359c2ac1e *man/toMatrix.Rd
 9cdcbbf303084ad05f959c4e42b9bad9 *man/topSet.Rd
 28540cea1494b8bb97a0f87b13f37556 *src/Makevars
-1702ed260a7032bc5186805b840b6e58 *src/RcppExports.cpp
+4f59d65247b1d089c9114c4b730a5660 *src/RcppExports.cpp
 a06d138b4916a132b84097438bd6d6e4 *src/countPrincipalDownSets.cpp
 1e03190aa66b8f80618ff34c9714e607 *src/countPrincipalDownSets.h
 d048f4fa3a39bad5064fd14f84c8c901 *src/getCompatibility.cpp
@@ -41,7 +41,7 @@ cbcb22cebad7d01c524695c9bc7d423b *src/getCompatibility.h
 f5eba15978bc63112ce3636e497cca3a *src/getIndexIntervals.h
 6b7f2f4d4b8b34642adf4a5dabe86959 *src/getPartitionInfo.cpp
 ccab4770e286bb09f909f3cfe1e6a5df *src/getPartitionInfo.h
-8745e5efe34d0ef8fc1395c40cd0426f *src/makeCanonicalRep.cpp
+844149d5b3b0045703b5c0297ec4017a *src/makeCanonicalRep.cpp
 61fb912ff517d31d56219cf5431e69d9 *src/makeCanonicalRep.h
 464ac1c5228f47492445262ac205e6da *src/types.cpp
 c348d27c9d8008bf62c0a89608593c03 *src/types.h
@@ -53,7 +53,7 @@ bd55b0203f27c1201b6a4534b4f44772 *src/userInterruptChecker.h
 c487d6ccd480c258e3a871c3cb9a26e6 *tests/testthat/test-bad_inputs.R
 cf1b2760e294f25aeee92866f40877d7 *tests/testthat/test-bridge.R
 6d77cabef7150bbdc9f647ecdad6f8b4 *tests/testthat/test-clique.R
-00dce810e52e5082d774c0ed790e50b9 *tests/testthat/test-generateIntervals.R
+c0163f27341f222923d2630fe085877a *tests/testthat/test-generateIntervals.R
 927e7536298137e8a1ffb4df7eec1869 *tests/testthat/test-integers.R
 d81911d1188c157169994e5f4bab5dad *tests/testthat/test-matrix.R
 31bed77c87ba739044fae5444288fe5c *tests/testthat/test-parts.R

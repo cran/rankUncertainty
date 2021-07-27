@@ -8,6 +8,11 @@
 
 using namespace Rcpp;
 
+#ifdef RCPP_USE_GLOBAL_ROSTREAM
+Rcpp::Rostream<true>&  Rcpp::Rcout = Rcpp::Rcpp_cout_get();
+Rcpp::Rostream<false>& Rcpp::Rcerr = Rcpp::Rcpp_cerr_get();
+#endif
+
 // countPrincipalDownSets
 Rcpp::IntegerVector countPrincipalDownSets(Rcpp::NumericVector left, Rcpp::NumericVector right);
 static SEXP _rankUncertainty_countPrincipalDownSets_try(SEXP leftSEXP, SEXP rightSEXP) {
