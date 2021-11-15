@@ -1,6 +1,6 @@
 Package: rankUncertainty
 Title: Methods for Working with Uncertainty in Rankings
-Version: 1.0.1.0
+Version: 1.0.2.0
 Authors@R: 
     person(given = "Justin",
            family = "Rising",
@@ -18,8 +18,8 @@ Imports: Rcpp, magrittr,
 Suggests: ggplot2, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2021-07-23 18:25:58 UTC; jkris
+Packaged: 2021-11-15 18:57:33 UTC; jkris
 Author: Justin Rising [aut, cre]
 Maintainer: Justin Rising <justin.rising@us.af.mil>
 Repository: CRAN
-Date/Publication: 2021-07-27 13:20:13 UTC
+Date/Publication: 2021-11-15 19:20:02 UTC

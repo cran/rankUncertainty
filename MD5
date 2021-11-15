@@ -1,7 +1,7 @@
-b3bbeb06520dc2bc47dddf4eb44aac39 *DESCRIPTION
+76787ebebbec7d055b4afcfb6d5671c8 *DESCRIPTION
 85320c26a2db8ed07992b214008ce468 *LICENSE
 aab1291f7de7c55e44668196df0df4c8 *NAMESPACE
-5428d17088f9ee836622dc8631746741 *R/RcppExports.R
+a5e9c074b2b111f306e9fbf32892f9e9 *R/RcppExports.R
 31181fa407fa0400650b3bdbaffb7abc *R/bottomSet.R
 f7cff172f614a0e0531c5be82a33bedc *R/canonicalize.R
 b6ea385cd50090de9525bf1165f120e0 *R/consts.R
@@ -17,7 +17,7 @@ abe5930f4570ea389fc6a44065b1c33b *R/partition.R
 aa3cacaf6c44086d460f5f9c296246b0 *R/toMatrix.R
 e95212118b3e5c8456acd9ecc0ea21bf *R/topSet.R
 bf6797e5b6c52f777cba2f4e78144ae5 *R/zzz.R
-6523457ee103a0d78b6ddec8244c98f7 *inst/CITATION
+f851515beaac3a69a5108f1fc063755d *inst/CITATION
 7ffb955c83938e398594d7f5df2be291 *inst/include/rankUncertainty.h
 0516c158982e60df007f4779b8054691 *inst/include/rankUncertainty_RcppExports.h
 45879566eb40b19a7f7d99b0e8ee24a3 *man/bottomSet.Rd
